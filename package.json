@@ -12,6 +12,7 @@
     "@emotion/styled": "latest",
     "@mui/material": "latest",
     "bcryptjs": "latest",
+    "cloudinary": "^2.10.0",
     "jsonwebtoken": "latest",
     "mongoose": "latest",
     "next": "latest",
